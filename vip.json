@@ -77,16 +77,6 @@
       "changeable": 0
     },
     {
-      "key": "天天",
-      "name": "拾光┃天天弹幕",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "playerType": 1,
-      "changeable": 2,
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-    },
-    {
       "key": "要啥脸",
       "name": "拾光┃七星",
       "type": 3,
@@ -96,6 +86,8 @@
       "quickSearch": 1,
       "ext": "http://122.228.84.103:5822/api.php/app/"
     },
+    {"key":"开心HK影视","name":"拾光┃天天","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
+    {"key":"开心影视","name":"拾光┃开心","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
 
 	    {
       "key": "南瓜",
@@ -151,21 +143,6 @@
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
       }
     },
-    {
-      "key": "Panta",
-      "name": "拾光┃胖达2K",
-      "type": 3,
-      "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-      "timeout": 60
-    },
-
-
     {
       "key": "Czsapp",
       "name": "拾光┃厂长2K",
