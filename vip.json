@@ -41,16 +41,16 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "拾光┃农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/nm4k.jar"
-    },
+{
+			"key": "csp_Nmys",
+			"name": "拾光┃农民",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/nmys.json"
+		},
     {
       "key": "卧龙资源",
       "name": "拾光┃卧龙",
@@ -265,16 +265,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ikanbot2.js"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "拾光┃农民2K",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/nmys.json"
-    },
+
     {
       "key": "csp_Bttoo",
       "name": "拾光┃比特2K",
