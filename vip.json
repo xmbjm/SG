@@ -1,4 +1,4 @@
-{
+﻿{
   "spider": "./svip.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
@@ -52,16 +52,12 @@
       "quickSearch": 1,
       "changeable": 0
     },
-	{
-    "key":"农民影视",
-    "name":"拾光┃农民",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar": "./jar.php",
-    "ext":"./lib/农民影视.json"},
+        {
+            "key": "nmys",
+            "name": "拾光┃农民",
+            "type": 3,
+            "api": "./lib/nmys.js"
+        },
     {
       "key": "要啥脸",
       "name": "拾光┃七星",
